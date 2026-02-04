@@ -5,7 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/Arnav Jalali/Desktop/Monke/galaga-project/MyProject2/Content/Level/MainLevel.umap"
+				"C:/Users/Arnav Jalali/Desktop/Monke/galaga-project/MyProject2/Content/Level/MainLevel.umap",
+				"C:/Users/Arnav Jalali/Desktop/Monke/galaga-project/MyProject2/Content/Blueprints/BP_Player.uasset",
+				"C:/Users/Arnav Jalali/Desktop/Monke/galaga-project/MyProject2/Content/Blueprints/BP_GameMode.uasset",
+				"C:/Users/Arnav Jalali/Desktop/Monke/galaga-project/MyProject2/Content/Sprites/brrr.uasset",
+				"C:/Users/Arnav Jalali/Desktop/Monke/galaga-project/MyProject2/Content/Sprites/brrr_Sprite.uasset"
 			]
 		}
 	]
